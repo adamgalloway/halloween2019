@@ -22,3 +22,15 @@ Install node deps
 ```
 npm install
 ```
+
+Adjust pi audio volume
+
+```
+alsamixer
+```
+
+Run as root
+
+```
+sudo /home/pi/n/bin/node index.js
+```
